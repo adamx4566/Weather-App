@@ -39,4 +39,4 @@ It shows current weather and a map for any city using the **OpenWeatherMap API**
 
  ## Preview 
 
-<img src="WPM/photos/preview.png" alt="Weather App preview" width="600">
+<img src="Weather App/photos/WeatherApp.png" alt="Weather App preview" width="600">
