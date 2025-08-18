@@ -29,14 +29,10 @@ It shows current weather and a map for any city using the **OpenWeatherMap API**
   
   const apiKey = "YOUR_API_KEY_HERE";
   
-  Technologies
+ ## Technologies
   
-  HTML5
-  
-  CSS3
-  
-  Vanilla JavaScript
-  
-  Leaflet.js
-  
-  OpenWeatherMap API
+ - HTML5
+ - CSS3
+ - Vanilla JavaScript 
+ - Leaflet.js
+ - OpenWeatherMap API
