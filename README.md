@@ -19,15 +19,15 @@ It shows current weather and a map for any city using the **OpenWeatherMap API**
    git clone https://github.com/yourusername/WeatherApp.git
    cd WeatherApp
    Open WeatherApp.html in your browser
-  Setup
+2. Setup
   
-  Get a free API key from OpenWeatherMap
+- Get a free API key from OpenWeatherMap
   
-  Open WeatherApp.js
+ - Open WeatherApp.js
   
-  Replace this line with your key:
+ - Replace this line with your key:
   
-  const apiKey = "YOUR_API_KEY_HERE";
+ - const apiKey = "YOUR_API_KEY_HERE";
   
  ## Technologies
   
